@@ -1,4 +1,4 @@
-package in.co.sh00nya;
+package in.co.sh00nya.web;
 
 import java.text.DateFormat;
 import java.util.Date;
